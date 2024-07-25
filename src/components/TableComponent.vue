@@ -146,7 +146,7 @@ export default defineComponent({
 }
 
 .selected {
-  border: 2px solid blue;
+  border: 1px solid rgb(0, 0, 0);
 }
 
 .table-container {
